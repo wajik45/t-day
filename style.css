@@ -152,7 +152,7 @@ font-family: 'Sono', sans-serif;
 .kotak-tiga h1 {
     margin: 10px 0;
     text-shadow: 5px 5px 1px #000;
-    transition: 2s;
+    transition: 1.5s;
 }
 .selamat {
     transform: scale(0);

@@ -124,7 +124,7 @@ window.onload = () => {
                                                     selamat.classList.toggle('opasiti-satu');
                                                     hari.classList.toggle('opasiti-satu');
                                                     guru.classList.toggle('opasiti-satu');
-                                                }, 500);
+                                                }, 2000);
                                             }, 1000);
                                         }, 700);
                                     }, 700);
